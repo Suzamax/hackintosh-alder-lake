@@ -3,6 +3,8 @@
 *.log
 tmp/
 
+._*
+
 # OpenCore's files
 ACPI.bak
 OpenCore.efi
