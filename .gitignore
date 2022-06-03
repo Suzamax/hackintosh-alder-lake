@@ -4,6 +4,7 @@
 tmp/
 
 # OpenCore's files
+ACPI.bak
 OpenCore.efi
 Resources/
 Tools/
