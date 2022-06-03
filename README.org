@@ -1,0 +1,17 @@
+#+TITLE: My custom Hackintosh Build
+* Specs
+- Intel Core i5 12400F (Alder Lake, no graphics)
+- Sapphire AMD Radeon RX 6600
+- 2x8 GB Kingston Fury CL16 @ 3200 MHz
+- Western Digital SSD Blue NVMe 550 500 GB
+- Mobo: ASUS PRIME B660 Micro ATX
+
+* FAQ
+** OMG 12TH WORKS WITH MACOS ASDASDASDASDD
+Checked Dortania, and r/Hackintosh, found out that it works.
+
+** PROBLEMS?????
+No lol
+
+** Why no kexts included in repo?????
+Kexts are the default ones, no custom Kext is used. Make sure you get them through dortania or similar websites ;)
